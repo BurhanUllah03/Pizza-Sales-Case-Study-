@@ -10,7 +10,7 @@ There are four csv files :
 - pizzas
 
 **Objectives:**
-- **Analyze Sales Data*: Understand sales trends over time, including peak periods.
-- **Customer Preferences*: Identify the most popular pizzas and toppings.
-- **Inventory Management*: Assess ingredient usage and help with restocking decisions.
-- **Profitability Analysis*: Evaluate the profit margins of different pizzas.
+- *Analyze Sales Data*: Understand sales trends over time, including peak periods.
+- *Customer Preferences*: Identify the most popular pizzas and toppings.
+- *Inventory Management*: Assess ingredient usage and help with restocking decisions.
+- *Profitability Analysis*: Evaluate the profit margins of different pizzas.
